@@ -1,5 +1,6 @@
 # NAME: SARASWATHI KURRA
- 
+
+![13220881_1087644651293517_8950622720728886259_n](https://user-images.githubusercontent.com/48707721/73627273-f6fb1c00-4619-11ea-9f15-07a00dacad50.jpg)
 
 ## My Computer Experience:
 I am currently a 1st year graduate student pursuing my Master’s degree in computer science. I completed my undergrad in Computer Science
