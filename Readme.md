@@ -3,9 +3,9 @@ NAME: SARASWATHI KURRA
 
 My Computer Experience:
 I am currently a 1st year graduate student pursuing my Master’s degree in computer science. I completed my undergrad in Computer Science	.  Courses that I am really interested in and have successfully completed are:
-	Randomized and approximate algorithms.
-	Operating system and UNIX.
-	Algorithm Design and Analysis.
+*	Randomized and approximate algorithms.
+*	Operating system and UNIX.
+*	Algorithm Design and Analysis.
 I have completed an IoT based project in my Internship in ExpertsHub called “TRASH TRUCK”. I also completed a project called “Automobile Safety” where I have designed an automobile with automatic steering using voice control technique and obstacle detection for minimizing the occurrence and consequences of traffic collisions. I also developed a game called “Battle ship” using C language.
 
 How is learning Web Server Programming helping me in future:
