@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-import Home from '../views/Home.vue'
+import Home from '../views/Home.vue';
 import Game from '../views/Game.vue';
 import Login from '../views/Login.vue';
 import { CurrentUser } from '../models/Users';
@@ -33,6 +33,3 @@ router.beforeEach( (to, from, next) => {
   if( to.meta.isSecret && !CurrentUser) next('/login');
   else next();
 });
-
-
-export default router
