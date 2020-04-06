@@ -28,7 +28,7 @@
 
         <div class="navbar-dropdown">
           <a class="navbar-item">
-            About
+            About jdhfihasiuhf
           </a>
           <a class="navbar-item">
             Jobs
