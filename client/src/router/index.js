@@ -33,3 +33,6 @@ router.beforeEach( (to, from, next) => {
   if( to.meta.isSecret && !CurrentUser) next('/login');
   else next();
 });
+
+
+export default router
